@@ -1,0 +1,7 @@
+Buzz 777 83.2
+Hamm 107 68.3
+Jessie 123 99.0
+Rex 666 90.8
+Slinky 301 52.2
+Woody 300 72.3
+
